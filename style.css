@@ -1,0 +1,20 @@
+body{
+    background-image: "abstract";
+}
+
+h3{
+    background-color: hotpink;
+   font-family: cursive;
+}
+
+
+h2{
+    font-family: cursive;
+}
+
+canvas{
+   border: 5px solid hotpink;
+   border-radius: 20px ;
+box-shadow: 5px 5px 5px deeppink;
+margin-top: 130px;
+}
